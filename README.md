@@ -1,0 +1,55 @@
+<h1 align="center"> Victor Wildner </h1>
+
+<div align="center">
+<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer  | 🐍🦀🐧🏳️‍🏴🚩</b>
+<br>
+<br>
+
+<p><i>
+A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+</i></p>
+</div>
+
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=vcwild">
+        <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+    <a href="https://www.twitch.tv/vcwild">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/vcwild?style=social">
+    </a>
+</div>
+
+---
+
+<div align="right">
+     <a href="https://github.com/vcwild">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent"
+        alt="Most used languages" align="right">
+    </a>
+</div>
+
+Hey there!! I am Victor, aka [**@vcwild**](https://twitter.com/vcwild) :wave:😊
+
+I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
+
+I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
+
+My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions.
+
+I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program.
+
+<!-- [![Vcwild's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&layout=compact&hide_border=true)](https://wakatime.com/@vcwild) -->
+
+---
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vcwild)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vcwild/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vcwild)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/vcwild)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vcwild)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vcwild)
+
+ </div>
