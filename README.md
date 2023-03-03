@@ -1,5 +1,10 @@
+<details closed>
+<summary>Click me 👈😊</summary>
+
+    
 <h1 align="center"> Victor Wildner </h1>
 
+    
 <div align="center">
 <b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer  | 🐍🦀🐧🏳️‍🏴🚩</b>
 <br>
@@ -55,5 +60,7 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/vcwild)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vcwild)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vcwild)
+
+</div>
     
- </div>
+</details>
