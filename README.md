@@ -6,13 +6,15 @@
 
     
 <div align="center">
-<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer  | 🐍🦀🐧🏳️‍🏴🚩</b>
+<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
 <br>
 <br>
 
-<p><i>
-A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
-</i></p>
+<blockquote>
+    <p><i>
+        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+    </i></p>
+</blockquote>
 </div>
 
 <div align="center">
