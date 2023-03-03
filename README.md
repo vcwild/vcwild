@@ -34,6 +34,7 @@ A cheerful person who enjoys talking and discussing deep topics about human natu
     </a>
 </div>
 
+
 Hey there!! I am Victor, aka [**@vcwild**](https://twitter.com/vcwild) :wave:😊
 
 I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
