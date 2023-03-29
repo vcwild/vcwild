@@ -1,5 +1,4 @@
-<details closed>
-<summary>Click me 👈😊</summary>
+
 
     
 <h1 align="center"> Victor Wildner </h1>
@@ -27,7 +26,11 @@
     </a>
 </div>
 
+<details closed>
+<summary>About me 👈😊</summary>
+
 ---
+
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
@@ -52,6 +55,8 @@ I have experience with Dev-Ops, Data Science, Data Engineering, Systems Developm
 My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
 
 I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
+    
+</details>
 
 ---
 
@@ -65,5 +70,3 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vcwild)
 
 </div>
-    
-</details>
