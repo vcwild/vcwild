@@ -11,7 +11,7 @@
 
 <blockquote>
     <p><i>
-        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. ⚛✨🎓🗣️
     </i></p>
 </blockquote>
 </div>
