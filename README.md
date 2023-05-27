@@ -19,10 +19,15 @@
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=vcwild">
         <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
-        alt="follow on Twitter">
+            alt="follow on Twitter">
     </a>
     <a href="https://www.twitch.tv/vcwild">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/vcwild?style=social">
+        <img src="https://img.shields.io/twitch/status/vcwild?style=social"
+             alt="Twitch Status">
+    </a>
+    <a href="https://wakatime.com/@vcwild">
+        <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social"
+             alt="Wakatime">
     </a>
 </div>
 
@@ -34,8 +39,10 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-       alt="Most used languages" align="right">
+        <img height="180em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+             alt="Most used languages"
+             align="right">
     </a>
 </div>
 
@@ -48,7 +55,8 @@ I have experience with Dev-Ops, Data Science, Data Engineering, Systems Developm
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@vcwild">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
+             alt="Wakatime stats" align="right" />
     </a>
 </div>
 
