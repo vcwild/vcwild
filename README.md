@@ -39,8 +39,8 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
-        <img height="180em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+        <img height="170em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
              alt="Most used languages"
              align="right">
     </a>
