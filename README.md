@@ -53,17 +53,19 @@ I am pretty much a life long learner. I enjoy the idea of **Learning in Public**
 
 I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
 
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@vcwild">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
-             alt="Wakatime stats" align="right" />
-    </a>
-</div>
+<div>
+    <div align="right" style="margin:auto">
+        <a href="https://wakatime.com/@vcwild">
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
+                 alt="Wakatime stats" align="right" />
+        </a>
+    </div>
 
 My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
 
 I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
-    
+
+</div>
 </details>
 
 ---
