@@ -64,6 +64,8 @@ I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https:
 </div>
 </details>
 
+<br/>
+
 ---
 
 <div align="center">
