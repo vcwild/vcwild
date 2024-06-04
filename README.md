@@ -7,7 +7,7 @@
 
 <blockquote>
     <p><i>
-        A cheerful person who finds joy in engaging in topics about the human nature and who holds a genuine belief that we can make the world a better place through education and public policies ⚛✨🎓🗣️
+        I'm an enthusiastic and cheerful individual who loves delving into discussions about human nature. I firmly believe that through education and well-crafted public policies, we have the power to craft a world where every individual can thrive ⚛✨🎓🗣️
     </i></p>
 </blockquote>
 </div>
