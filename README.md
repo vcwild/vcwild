@@ -47,7 +47,7 @@ Hey there!! I am Victor, aka [**@vcwild**](https://twitter.com/vcwild) :wave:ðŸ˜
 
 I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
 
-I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
+I have experience with DevOps, MLOps, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
 
 <div>
     <div align="right" style="margin:auto">
@@ -57,9 +57,9 @@ I have experience with Dev-Ops, Data Science, Data Engineering, Systems Developm
         </a>
     </div>
 
-My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
+I specialize in software development and test automation, metrics-driven insights, and high-quality CI/CD pipelines. My expertise spans across Data Engineering, DevOps, Quality Engineering, Systems Development, and Back-end web programming
 
-I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
+I am currently working as a _Software Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. I  previously worked for large global Enterprise, Finance, and Banking industries.
 
 </div>
 </details>
