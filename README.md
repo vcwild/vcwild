@@ -59,7 +59,7 @@ I have experience with DevOps, MLOps, Data Science, Data Engineering, Systems De
 
 I specialize in software development and test automation, metrics-driven insights, and high-quality CI/CD pipelines. My expertise spans across Data Engineering, DevOps, Quality Engineering, Systems Development, and Back-end web programming
 
-I am currently working as a _Software Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. I  previously worked for large global Enterprise, Finance, and Banking industries.
+I am currently working as a _DevOps Engineer_. I  previously worked for large global Enterprise, Finance, and Banking industries.
 
 </div>
 </details>
