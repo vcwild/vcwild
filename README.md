@@ -1,7 +1,7 @@
 <h1 align="center"> Victor Wildner </h1>
     
 <div align="center">
-<b>Software Engineer | Live Coder | Open Source Advocate | Lifelong Learner | 🐍🦀🐧🏳️‍🏴🚩</b>
+<b>Software Engineer | Live Coder | Open Source Advocate | Lifelong Learner | 🐍🦀🐧🇧🇷🇸🇪</b>
 <br>
 <br>
 
