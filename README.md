@@ -57,7 +57,7 @@ I have experience with DevOps, MLOps, Data Science, Data Engineering, Systems De
         </a>
     </div>
 
-I specialize in software development and test automation, metrics-driven insights, and high-quality CI/CD pipelines. My expertise spans across Data Engineering, DevOps, Quality Engineering, Systems Development, and Back-end web programming
+I specialize in software development, test automation, metrics-driven insights, and high-quality CI/CD pipelines. My expertise spans across Data Operations & Quality Engineering, focusing on leading teams to create high-value outcomes.
 
 I am currently working as a _DevOps Engineer_. I  previously worked for large global Enterprise, Finance, and Banking industries.
 
