@@ -1,8 +1,7 @@
 <h1 align="center"> Victor Wildner </h1>
     
 <div align="center">
-<b>Software Engineer | Open Source Advocate | Lifelong Learner | 🇧🇷🇸🇪</b>
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Open+Source+Advocate;Platform+Engineer+%7C+DataOps+%7C+MLOps;Developer+tools+%7C+DX;Helping+teams+deliver+projects+with+speed+and+quality" alt="Typing SVG" />
 <br>
 
 <blockquote>
