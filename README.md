@@ -1,13 +1,13 @@
 <h1 align="center"> Victor Wildner </h1>
     
 <div align="center">
-<b>Software Engineer | Open Source Advocate | Lifelong Learner | 🐍🦀🐧🇧🇷🇸🇪</b>
+<b>Software Engineer | Open Source Advocate | Lifelong Learner | 🐍🦀🇧🇷🇸🇪</b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        I’m a curious optimist drawn to conversations about human nature. I firmly believe that through education and well-crafted public policies, we have the power to craft a world where every individual can thrive ⚛✨🎓🗣️
+        I’m a curious optimist drawn to conversations about human nature. I firmly believe that through education and well-crafted public policies, we have the power to craft a world where every individual can thrive.
     </i></p>
 </blockquote>
 </div>
